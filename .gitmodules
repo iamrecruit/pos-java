@@ -1,0 +1,6 @@
+[submodule "CuifugangAndSukai"]
+	path = CuifugangAndSukai
+	url = git@github.com:SnakeWorker/pos-java.git
+[submodule "WangyufeiAndWangximing"]
+	path = WangyufeiAndWangximing
+	url = git@github.com:sorashiro/pos-java.git
