@@ -4,3 +4,9 @@
 [submodule "WangyufeiAndWangximing"]
 	path = WangyufeiAndWangximing
 	url = git@github.com:sorashiro/pos-java.git
+[submodule "Zhangwei"]
+	path = Zhangwei
+	url = git@github.com:lzhangwei/pos-java.git
+[submodule "XueqianAndZhangzhihui"]
+	path = XueqianAndZhangzhihui
+	url = git@github.com:xiaoyanzhuzzh/pos-java.git
