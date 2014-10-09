@@ -8,5 +8,5 @@
 	path = Zhangwei
 	url = git@github.com:lzhangwei/pos-java.git
 [submodule "XueqianAndZhangzhihui"]
-	path = XueqianAndZhangzhihui
+	path = WanghuanAndZhangzhihui
 	url = git@github.com:xiaoyanzhuzzh/pos-java.git
